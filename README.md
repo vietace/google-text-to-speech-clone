@@ -1,3 +1,5 @@
+I clone Guy Rotem project for testing a different free Heroku server only. Thank you Guy Rotem.
+
 # google-translate-server
 
 NodeJS proxy for Google Translate & TTS services.
